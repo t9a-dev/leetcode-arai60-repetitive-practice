@@ -1,4 +1,5 @@
 pub mod add_two_numbers;
+pub mod kth_largest_elements_in_a_stream;
 pub mod linked_list_cycle;
 pub mod linked_list_cycle_ii;
 pub mod remove_duplicates_from_sorted_list;
