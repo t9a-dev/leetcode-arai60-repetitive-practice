@@ -7,4 +7,5 @@ pub mod remove_duplicates_from_sorted_list;
 pub mod remove_duplicates_from_sorted_list_ii;
 pub mod reverse_linked_list;
 pub mod top_k_frequent_elements;
+pub mod two_sum;
 pub mod valid_parentheses;
