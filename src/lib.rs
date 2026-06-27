@@ -7,6 +7,7 @@ pub mod kth_largest_elements_in_a_stream;
 pub mod linked_list_cycle;
 pub mod linked_list_cycle_ii;
 pub mod max_area_of_island;
+pub mod number_of_connected_components_in_an_undirected_graph;
 pub mod number_of_islands;
 pub mod remove_duplicates_from_sorted_list;
 pub mod remove_duplicates_from_sorted_list_ii;
