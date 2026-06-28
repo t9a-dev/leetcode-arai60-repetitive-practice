@@ -17,3 +17,5 @@ pub mod top_k_frequent_elements;
 pub mod two_sum;
 pub mod unique_email_addresses;
 pub mod valid_parentheses;
+pub mod word_ladder;
+
