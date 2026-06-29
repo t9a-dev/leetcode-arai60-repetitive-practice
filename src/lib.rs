@@ -8,6 +8,7 @@ pub mod linked_list_cycle;
 pub mod linked_list_cycle_ii;
 pub mod max_area_of_island;
 pub mod maximum_depth_of_binary_tree;
+pub mod merge_two_binary_trees;
 pub mod minimum_depth_of_binary_tree;
 pub mod number_of_connected_components_in_an_undirected_graph;
 pub mod number_of_islands;
