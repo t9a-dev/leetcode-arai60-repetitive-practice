@@ -1,5 +1,6 @@
 pub mod add_two_numbers;
 pub mod binary_tree_level_order_traversal;
+pub mod binary_tree_zigzag_level_order_traversal;
 pub mod convert_sorted_array_to_binary_search_tree;
 pub mod find_k_pairs_with_smallest_sum;
 pub mod first_unique_character_in_a_string;
