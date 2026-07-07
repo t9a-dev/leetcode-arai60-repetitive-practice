@@ -16,6 +16,7 @@ pub mod merge_two_binary_trees;
 pub mod minimum_depth_of_binary_tree;
 pub mod number_of_connected_components_in_an_undirected_graph;
 pub mod number_of_islands;
+pub mod paint_fence;
 pub mod path_sum;
 pub mod remove_duplicates_from_sorted_list;
 pub mod remove_duplicates_from_sorted_list_ii;
