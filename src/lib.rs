@@ -10,6 +10,7 @@ pub mod intersection_of_two_arrays;
 pub mod kth_largest_elements_in_a_stream;
 pub mod linked_list_cycle;
 pub mod linked_list_cycle_ii;
+pub mod longest_increasing_subsequence;
 pub mod max_area_of_island;
 pub mod maximum_depth_of_binary_tree;
 pub mod merge_two_binary_trees;
