@@ -13,6 +13,7 @@ pub mod linked_list_cycle_ii;
 pub mod longest_increasing_subsequence;
 pub mod max_area_of_island;
 pub mod maximum_depth_of_binary_tree;
+pub mod maximum_subarray;
 pub mod merge_two_binary_trees;
 pub mod minimum_depth_of_binary_tree;
 pub mod number_of_connected_components_in_an_undirected_graph;
