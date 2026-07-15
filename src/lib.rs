@@ -27,6 +27,7 @@ pub mod subarray_sum_equals_k;
 pub mod top_k_frequent_elements;
 pub mod two_sum;
 pub mod unique_email_addresses;
+pub mod unique_paths;
 pub mod valid_parentheses;
 pub mod validate_binary_search_tree;
 pub mod word_ladder;
