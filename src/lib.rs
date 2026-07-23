@@ -7,6 +7,7 @@ pub mod find_k_pairs_with_smallest_sum;
 pub mod first_unique_character_in_a_string;
 pub mod group_anagrams;
 pub mod house_robber;
+pub mod house_robber_ii;
 pub mod intersection_of_two_arrays;
 pub mod kth_largest_elements_in_a_stream;
 pub mod linked_list_cycle;
