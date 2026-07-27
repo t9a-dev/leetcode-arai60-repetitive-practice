@@ -35,4 +35,5 @@ pub mod unique_paths;
 pub mod unique_paths_ii;
 pub mod valid_parentheses;
 pub mod validate_binary_search_tree;
+pub mod word_break;
 pub mod word_ladder;
