@@ -27,6 +27,7 @@ pub mod number_of_connected_components_in_an_undirected_graph;
 pub mod number_of_islands;
 pub mod paint_fence;
 pub mod path_sum;
+pub mod pow;
 pub mod remove_duplicates_from_sorted_list;
 pub mod remove_duplicates_from_sorted_list_ii;
 pub mod reverse_linked_list;
