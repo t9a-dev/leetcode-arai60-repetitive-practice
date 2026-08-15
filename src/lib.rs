@@ -34,6 +34,7 @@ pub mod remove_duplicates_from_sorted_list_ii;
 pub mod reverse_linked_list;
 pub mod search_in_rotated_sorted_array;
 pub mod search_insert_position;
+pub mod split_bst;
 pub mod subarray_sum_equals_k;
 pub mod top_k_frequent_elements;
 pub mod two_sum;
