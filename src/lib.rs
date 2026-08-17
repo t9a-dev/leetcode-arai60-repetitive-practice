@@ -19,6 +19,7 @@ pub mod kth_symbol_in_grammar;
 pub mod linked_list_cycle;
 pub mod linked_list_cycle_ii;
 pub mod longest_increasing_subsequence;
+pub mod longest_substring_without_repeating_characters;
 pub mod max_area_of_island;
 pub mod maximum_depth_of_binary_tree;
 pub mod maximum_subarray;
