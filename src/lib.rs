@@ -39,6 +39,7 @@ pub mod search_in_rotated_sorted_array;
 pub mod search_insert_position;
 pub mod split_bst;
 pub mod subarray_sum_equals_k;
+pub mod subsets;
 pub mod top_k_frequent_elements;
 pub mod two_sum;
 pub mod unique_email_addresses;
