@@ -11,6 +11,7 @@ pub mod convert_sorted_array_to_binary_search_tree;
 pub mod find_k_pairs_with_smallest_sum;
 pub mod find_minimum_in_roated_sorted_array;
 pub mod first_unique_character_in_a_string;
+pub mod generate_parentheses;
 pub mod group_anagrams;
 pub mod house_robber;
 pub mod house_robber_ii;
