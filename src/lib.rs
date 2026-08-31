@@ -26,6 +26,7 @@ pub mod max_area_of_island;
 pub mod maximum_depth_of_binary_tree;
 pub mod maximum_subarray;
 pub mod meeting_rooms;
+pub mod meeting_rooms_ii;
 pub mod merge_two_binary_trees;
 pub mod minimum_depth_of_binary_tree;
 pub mod minimum_size_subarray_sum;
