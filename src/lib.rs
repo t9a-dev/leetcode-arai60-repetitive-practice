@@ -16,6 +16,7 @@ pub mod group_anagrams;
 pub mod house_robber;
 pub mod house_robber_ii;
 pub mod intersection_of_two_arrays;
+pub mod is_subsequence;
 pub mod kth_largest_elements_in_a_stream;
 pub mod kth_symbol_in_grammar;
 pub mod linked_list_cycle;
