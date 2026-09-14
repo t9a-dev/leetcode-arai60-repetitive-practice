@@ -32,6 +32,7 @@ pub mod merge_two_binary_trees;
 pub mod minimum_depth_of_binary_tree;
 pub mod minimum_size_subarray_sum;
 pub mod move_zeroes;
+pub mod next_permutation;
 pub mod number_of_connected_components_in_an_undirected_graph;
 pub mod number_of_islands;
 pub mod paint_fence;
