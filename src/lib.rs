@@ -45,6 +45,7 @@ pub mod reverse_linked_list;
 pub mod search_in_rotated_sorted_array;
 pub mod search_insert_position;
 pub mod split_bst;
+pub mod string_to_integer;
 pub mod subarray_sum_equals_k;
 pub mod subsets;
 pub mod top_k_frequent_elements;
