@@ -57,3 +57,4 @@ pub mod valid_parentheses;
 pub mod validate_binary_search_tree;
 pub mod word_break;
 pub mod word_ladder;
+pub mod zigzag_conversion;
