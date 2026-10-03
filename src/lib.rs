@@ -4,4 +4,5 @@ mod linked_list_cycle;
 mod linked_list_cycle_ii;
 mod remove_duplicates_from_sorted_list;
 mod remove_duplicates_from_sorted_list_ii;
+mod subarray_sum_equals_k;
 mod two_sum;
