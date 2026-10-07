@@ -2,6 +2,7 @@ mod find_k_pairs_with_smallest_sums;
 mod intersection_of_two_arrays;
 mod linked_list_cycle;
 mod linked_list_cycle_ii;
+mod number_of_connected_components_in_an_undirected_graph;
 mod number_of_islands;
 mod remove_duplicates_from_sorted_list;
 mod remove_duplicates_from_sorted_list_ii;
