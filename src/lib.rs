@@ -2,6 +2,7 @@ mod find_k_pairs_with_smallest_sums;
 mod intersection_of_two_arrays;
 mod linked_list_cycle;
 mod linked_list_cycle_ii;
+mod merge_two_binary_trees;
 mod minimum_depth_of_binary_tree;
 mod number_of_connected_components_in_an_undirected_graph;
 mod number_of_islands;
